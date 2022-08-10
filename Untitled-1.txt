@@ -1,0 +1,31 @@
+JS --> programming lanaguge   --> scripting lang ->
+
+Client / server --
+
+client -> browser --> 
+
+Engines -->
+js engines -->
+chrome --> v8
+firefox --> spidermonkey <-- netscape -->
+safari --> webkit
+
+------------------------------------------
+c,c++,java --> js 
+static typing --> dynamic typing
+int ,double  --> no data type
+
+------------------------------------------
+var,let,const
+var ---> gloabl scope
+let --> function scope
+const --> constant --> cannot be reassigned
+-----------
+HTML -->
+----->
+inline JS
+<script>
+external .js
+
+window
+
