@@ -1,1 +1,14 @@
 country [] array states -->city -> name --> windy --->
+
+
+///
+
+sort country by name
+sort country by population
+
+sort state by population --> 
+{
+    country :
+    statname:
+    popo :
+}
