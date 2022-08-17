@@ -12,3 +12,26 @@ sort state by population -->
     statname:
     popo :
 }
+--------------------------------------------------------------------------------
+students[
+    name:
+    score :[
+        10th:{
+            math :
+            english :
+            science :
+        }
+        12th:{
+
+            math:
+        }
+    ]
+    
+]
+---------------------------------------
+1) print that student record who has highest score in 12th class 12
+
+2) who has highest marsk in maths in 10th
+2) who has highest marsk in maths in 12th 10th(avgc)
+
+
