@@ -107,3 +107,9 @@ var student = [
 
 console.log(student)
 
+var x = 100;
+var x1 = "100"
+
+console.log("==",x==x1)
+console.log("==",x===x1)
+
