@@ -47,5 +47,14 @@ students[
 
 ---> palindrome --> name -->
 
+EVENTS
+
+mouse
+change text out and over...
+
+//JSPO -->string --> object
+
+
+
 
 

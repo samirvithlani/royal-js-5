@@ -21,6 +21,7 @@ console.log(data);
 //data  = data.substring(12)
 console.log(data);
 
+
 var demodata = "s,a,,m,i,,r"
 console.log(demodata.length);
 //var arr = demodata.split(",");
@@ -30,5 +31,3 @@ data.includes("World");
 
 data  = data.repeat(3);
 console.log(data);
-
-

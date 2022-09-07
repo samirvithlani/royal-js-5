@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./key.js"></script>
+</head>
+<body>
+    <form>
+        <div>
+            <label>Name</label>
+            <input type="text" name="name" id="name" onkeyup="prints(event)">
+        </div>
+        <div>
+            <label>Email</label>
+            <input type="text" name="name" id="email" onkeydown="prints1(event)">
+        </div>
+        <div>
+            <label>Password</label>
+            <input type="text" name="name" id="password" onkeypress="prints2(event)">
+        </div>
+        <div>
+            <input type="submit" value ="add">
+        </div>
+        
+    </form>
+</body>
+</html>

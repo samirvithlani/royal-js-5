@@ -1,0 +1,21 @@
+[
+    {
+        name:"samir,
+        age:20,
+        salary:25000
+    },
+    {
+        name:"raj,
+        age:25,
+        salary:15000
+    },
+    {
+        name:"mihit,
+        age:45,
+        salary:45000
+    }
+]
+
+rules:
+1 --> +20 points
+-10
