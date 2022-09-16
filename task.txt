@@ -56,8 +56,27 @@ change text out and over...
 //2 button --> ase des
 --> 
 singnal
-
 user 1 min idle close...
+
+Bank -> json {
+    name:
+    balance:
+    accountno:
+    password:
+    transaction:[
+        {
+            date:
+            amount:
+            type:
+        }
+    ]
+}
+
+class Bank{
+
+    
+}
+
 
 
 
