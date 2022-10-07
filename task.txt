@@ -88,14 +88,28 @@ age ---> 10 20 30 40 50 60 70 80 90 100
 bw --> age --> 25 50
 every month birthday -->
 upcoming birthday --> 1,2 
+------------------------
 
 
+chart
+population city wise bir
 
+exapnse manager---
+-----------------
 
+json --> 5
+name
 
+expense :[
+    medical
+    food
+    travel
+    ent
+    9
+    10000
+]
 
-
-
+login -->
 
 
 
